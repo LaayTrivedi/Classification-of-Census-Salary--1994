@@ -1,3 +1,3 @@
-# The salary demogrphic data - 1994
+# 1994 Census -  Salary Classification
 ![](untitled.png)
 
