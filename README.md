@@ -1,4 +1,4 @@
-# 1994 Census -  Salary Classification
+# 1994 Census   Salary Classification
 
 The Census Income dataset available at the UCIrvine Machine Learning Repository. In this problem we will observe what factors most affect the salary and how a classification algorithm using tree models can predict the binary outcome.
 
